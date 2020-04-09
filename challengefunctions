@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+def cal():
+    x= float(input("whats the first number?: ")) # I used float() to convert the string created by input() into a float... I used float and not integer so that you can also add decimals.
+    y= float(input("what is the second number?: "))
+    sum= x + y
+    print(sum)
+
+def cal2():
+    z=
+cal()
+
+    
