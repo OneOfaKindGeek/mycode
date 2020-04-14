@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+addFile = open("favoritethings.py", "w")
+print("My favorite movie is endgame", file=addFile)
+
+print("my favorite videogame is witcher 3", file=addFile)
+
+print("my favorite show is whatever is filling time in this covid19 boredum", file=addFile)
+
+print("my favorite book series is mistborn", file=addFile)
+
+print("my favorite anime is castlevania ", file=addFile)
+
+addFile.close()
